@@ -1,0 +1,19 @@
+{
+  "name": "xenon-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "canvas": "^2.6.0",
+    "discord-backup": "^1.0.4",
+    "discord.js": "github:discordjs/discord.js",
+    "moment": "^2.24.0",
+    "moment-duration-format": "^2.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
